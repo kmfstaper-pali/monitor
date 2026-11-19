@@ -1,0 +1,5 @@
+[
+  { "nama": "Situs utama", "url": "https://example.com" },
+  { "nama": "Dokumentasi", "url": "https://example.org" },
+  { "nama": "Contoh error", "url": "https://httpbin.org/status/503", "harapStatus": [200, 299] }
+]
