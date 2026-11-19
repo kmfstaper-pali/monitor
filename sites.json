@@ -1,5 +1,5 @@
 [
-  { "nama": "Situs utama", "url": "https://example.com" },
+  { "nama": "Situs utama", "url": "https://palikab.go.id" },
   { "nama": "Dokumentasi", "url": "https://example.org" },
   { "nama": "Contoh error", "url": "https://httpbin.org/status/503", "harapStatus": [200, 299] }
 ]
